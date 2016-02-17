@@ -1,0 +1,163 @@
+body {
+	font-family: OpenSans-Light;
+}
+.logo {
+	width: 100px;
+}
+a {
+	text-decoration: none;
+	color: #B3B6B7;
+}
+nav ul {
+	list-style-type: none;
+	margin-top: 40px;
+	position: relative;
+	float: right;
+	color: #B3B6B7;
+}
+nav li {
+	display: inline;
+	margin: 20px;
+}
+/*---------- SECCION NOSOTROS ----------*/
+#nosotros {
+	text-align: center;
+}
+.semilla {
+	background-image: url("../img/semilla.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: 0px -270px;
+	padding: 140px;
+}
+.text {
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+.mision img {
+	width: 110px;
+}
+.mision div {
+	padding: 0px 80px;
+}
+.mision {
+	margin: 50px 0px;
+}
+.metodologia {
+	background-image: url("../img/fondo.jpg");
+}
+.metodologia p {
+	margin-top: 30px;
+}
+.metodo {
+	background-image: url("../img/metodo.jpg");
+	background-size: 100%;
+	padding-bottom: 350px;
+}
+.met {
+	padding: 58px 80px;
+}
+.metodologia h3 {
+	margin-top: 30px;
+}
+/*---------- SECCION SERVICIOS ----------*/
+#servicios {
+	margin-top: 60px;
+}
+#servicios img {
+	width: 100px;
+}
+#servicios p {
+	margin-top: 25px;
+}
+.serv div{
+	text-align: center;
+	padding: 50px;
+}
+/*---------- SECCION PROYECTOS ----------*/
+#proyectos {
+	padding: 80px;
+	text-align: center;
+}
+#proyectos img {
+	width: 450px;
+	margin-left: 80px;
+}
+.proyecto {
+	padding: 75px;
+}
+/*---------- SECCION EQUIPO ----------*/
+#equipo {
+	margin: 80px;
+	text-align: center;
+}
+.fotos {
+	width: 200px;
+	border-radius: 50%;
+	margin-bottom: 30px;
+}
+#equipo p {
+	padding: 0 50px;
+}
+.redes img {
+	width: 30px;
+	margin: 30px 10px 0px;
+}
+/*---------- SECCION BLOG ----------*/
+#blog {
+	background-image: url("../img/fondo2.jpg");
+	text-align: left;
+	padding: 50px 0px;
+}
+.blog {
+	margin: 0 110px;
+}
+.post-foto {
+	width: 300px;
+}
+.post p{
+	padding-right: 30px;
+}
+.slider {
+	width: 40px;
+	position: relative;
+	float: left;
+	top: 120px;
+	left: 20px;
+}
+/*---------- SECCION SIGUENOS ----------*/
+#siguenos {
+	background-color: #4D4D4D;
+	padding: 70px 90px;
+}
+.caja {
+	width: 290px;
+	height: 240px;
+	border: 1px solid white;
+	position: relative;
+	float: left; 
+}
+h5 {
+	padding: 25px 20px;
+	font-size: 20px;
+}
+#siguenos img {
+	width: 50px;
+	position: relative;
+	float: right;
+	top: 100px;
+	right: 80px;
+}
+/*---------- PIE DE PAGINA ----------*/
+footer {
+	padding: 50px 0;
+}
+.uno {
+	padding-left: 50px;
+}
+.dos {
+	padding-right: 50px;
+}
+.num {
+	color: #B3B6B7;
+}
